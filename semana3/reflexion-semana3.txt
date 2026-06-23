@@ -1,0 +1,8 @@
+Git es importante porque permite guardar el historial de los cambios que se hacen en un proyecto.  
+Esto ayuda a no perder información y poder volver a versiones anteriores si algo sale mal.  
+También facilita el trabajo en equipo porque varias personas pueden trabajar en el mismo proyecto.  
+Cada cambio queda registrado, lo que hace que todo sea más ordenado.  
+Además, GitHub permite guardar los proyectos en la nube.  
+Así se puede acceder desde cualquier lugar y en cualquier momento.  
+Usar Git hace que el trabajo sea más seguro y organizado.  
+Por eso es una herramienta muy importante para los programadores.  
